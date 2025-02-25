@@ -26,32 +26,37 @@
 					<tr>
 						<th>Nama</th>
 						<th>:</th>
-						<td></td>
+						<td>tuti indah gea</td>
 					</tr>
+<tr>
+<th>kelas</th>
+<th>:</th>
+<td>XII TKJ</td>
+</tr>
 					<tr>
 						<th>Tempat, Tgl.Lahir</th>
 						<th>:</th>
-						<td></td>
+						<td>hiliononamolo 21 Juni 2006</td>
 					</tr>
 					<tr>
 						<th>Agama</th>
 						<th>:</th>
-						<td></td>
+						<td>kristen Protestan</td>
 					</tr>
 					<tr>
 						<th>Alamat</th>
 						<th>:</th>
-						<td></td>
+						<td>laowowaga</td>
 					</tr>
 					<tr>
 						<th>Email</th>
 						<th>:</th>
-						<td></td>
+						<td>geatuti85@gmail.com</td>
 					</tr>
 					<tr>
 						<th>No.HP</th>
 						<th>:</th>
-						<td></td>
+						<td>082297263746</td>
 					</tr>
 				</table>
 				
@@ -65,9 +70,9 @@
 			
 			<div>
 				<ul>
-					<li><b>2000 - 2006</b> SD </li>
-					<li><b>2006 - 2009</b> SMP</li>
-					<li><b>2009 - 2012</b> SMK </li>
+					<li><b>2000 - 2006</b> SD 077283 ombolatalangi </li>
+					<li><b>2006 - 2009</b> SMP N. 2 latim</li>
+					<li><b>2009 - 2012</b> SMK N 1 latim</li>
 				</ul>
 			</div>
  
@@ -96,11 +101,11 @@
 			
 			<div>
 				<ul>
-					<li>HTML</li>
-					<li>CSS</li>
-					<li>JavaScript</li>
-					<li>PHP</li>
-					<li>CodeIgniter</li>
+					<li>instalasi jaringan</li>
+					<li>instalasi sistem jaringan</li>
+					<li>instalasi software</li>
+					<li>admin jaringan</li>
+					<li>membangun web berbasis HTML CSS</li>
 					<li>Laravel</li>
 					<li>NodeJS</li>					
 				</ul>
